@@ -13,6 +13,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydee029&show_icons=true&locale=en&layout=compact" alt="jaydee029" /></p>
 
+<p>LFX PROFILE- https://openprofile.dev/profile/jaydee29</p>
 
 <!--
 **jaydee029/jaydee029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
