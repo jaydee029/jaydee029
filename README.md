@@ -1,4 +1,4 @@
-![image1](https://github.com/jaydee029/jaydee029/blob/main/resources/gitprof.jpg)
+<img src="https://github.com/jaydee029/jaydee029/blob/main/resources/gitprof.jpg" width="10000" height="300">
 
 <h2>Hi 👋, I'm Dhruv</h1>
 <h3>I Build Things.(for now)</h3>
