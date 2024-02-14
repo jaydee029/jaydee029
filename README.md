@@ -11,7 +11,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydee029&show_icons=true&locale=en&layout=compact" alt="jaydee029" /></p>
+<a href="https://github.com/jaydee029/jaydee029">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydee029&show_icons=true&count_private=true&title_color=CCD6F6&text_color=CCD6F6&icon_color=7276fd&bg_color=22272E&hide=issues&hide_border=1&border_radius=15&custom_title=Stats" />
+</a>
+
+<br />
+<br />
+
+<a href="https://github.com/jaydee029/jaydee029">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaydee029&layout=compact&title_color=CCD6F6&text_color=CCD6F6&icon_color=2bbc8a&bg_color=22272E&hide_border=1&border_radius=15&custom_title=Languages" />
+</a>
 
 <p>LFX PROFILE- https://openprofile.dev/profile/jaydee29</p>
 
