@@ -1,3 +1,5 @@
+![image1](https://github.com/jaydee029/jaydee029/blob/main/resources/gitprof.jpg)
+
 <h2>Hi 👋, I'm Dhruv</h1>
 <h3>I Build Things.(for now)</h3>
 <p>Trying my hands on Backend and Machine Learning</p>
