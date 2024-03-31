@@ -26,7 +26,7 @@
 
 
 <p>LFX PROFILE- https://openprofile.dev/profile/jaydee29</p>
-<p>Email- dhruvj797@gmail.com</p>
+<p>Email- write2dhruvj@gmail.com</p>
 
 
 
